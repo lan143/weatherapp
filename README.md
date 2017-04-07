@@ -16,7 +16,7 @@ Weather App
 
 ~~~
 php composer.phar global require "fxp/composer-asset-plugin:^1.2.0"
-php composer.phar create-project --prefer-dist --stability=dev lan143/weatherapp weatherapp
+php composer.phar create-project --prefer-dist lan143/weatherapp weatherapp
 ~~~
 
 ### Установка через Git
